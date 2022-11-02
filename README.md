@@ -1,2 +1,4 @@
-# bootcamp-terminal-test
-[![pages-build-deployment](https://github.com/sinenkosimasinga/bootcamp-terminal-test/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sinenkosimasinga/bootcamp-terminal-test/actions/workflows/pages/pages-build-deployment)
+# BootcampTerminalTesting 
+
+[![Node.js CI](https://github.com/natasia97/BootcampTerminalTesting/actions/workflows/node.js.yml/badge.svg)](https://github.com/natasia97/BootcampTerminalTesting/actions/workflows/node.js.yml)
+

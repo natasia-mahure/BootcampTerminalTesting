@@ -1,3 +1,6 @@
+import assert from 'assert';
+import regCheck from '../regCheck.js'
+
 describe('Test regCheck function' , function(){
     it("It should return ,'true 'when reg1 endswith reg2" , function(){
         

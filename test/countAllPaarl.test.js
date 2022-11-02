@@ -1,5 +1,5 @@
 import assert from 'assert';
-import countAllFromTown from '../countAllFromTown.js';
+import countAllPaarl from '../countAllPaarl.js';
 
 describe('Test for countAllPaarl function' , function(){
     it("It should return a 3 for ,'CL''-fromStellies" , function(){

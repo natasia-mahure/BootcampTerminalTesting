@@ -1,3 +1,7 @@
+import assert from 'assert';
+import countRegNumber from '../countRegNumber.js'
+
+
 describe('Test countRegNumber function' , function(){
     it("It should return the number of reg cars" , function(){
         var regCount = countRegNumber('CA 182736,CY 523519,CJ 812328')
